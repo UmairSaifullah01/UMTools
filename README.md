@@ -1,2 +1,3 @@
 # UMTools
-Unity Useful functions
+
+A description of your Unity package.
